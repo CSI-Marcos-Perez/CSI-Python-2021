@@ -131,27 +131,27 @@ Typing `python` *(or `python3`)* into the terminal will enter the Python console
 What is a benefit of using Markdown?
 https://www.markdownguide.org/getting-started/
 
- - Answer:
+ - Answer: The benefit is that the files containing Markdown-formatted text can be opened using any application.It is also portable. You can use Markdown-formatted text on any device. You can also read a Markdown-formatted text using a text editing application, once the the application you use stops working.
 
 What does "cd" stand for?
 
- - Answer:
+ - Answer: "CD" stands for Change Directory.
 
 Did you get stuck at any point or become confused with your console? (yes/no) If so, what happened? How did you solve it?
 
- - Answer:
+ - Answer: Yes definitely. I could not open Python from my console because I did not add Python to Path.. I fixed this problem by adding a python extension and restarting Visual Studio Code.
 
 Did you consider searching google for other commands to run? What did you try? 
 
- - Answer:
+ - Answer: I searched in Google and only found cd.
 
 What would you like to program? 
 
- - Answer:
+ - Answer: I would like to program a computer, a telephone, or a robot.
 
 Type down any class notes below this sentence:
-
-
+cd= change directory
+Markdown is a markup language that is used to add formatting elements to plaintext documents.
 
 Lackluster responses may result in point deductions.
 -->
