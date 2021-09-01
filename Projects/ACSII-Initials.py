@@ -1,0 +1,7 @@
+print("M   M     A     RRRR     CCC     OOO     SSS")
+print("MM MM   A  A    R   R   C   C   O   O   S   S")
+print("MM MM  A    A   R   R   C       O   O   S")
+print("M M M  AAAAAA   RRRR    C       O   O    SSS")
+print("M   M  A    A   R R     C       O   O       S")
+print("M   M  A    A   R  R    C   C   O   O   S   S")
+print("M   M  A    A   R   R    CCC     OOO     SSS")
