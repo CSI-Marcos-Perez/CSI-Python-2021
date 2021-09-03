@@ -47,7 +47,7 @@ You may define your own data type. In <u>object oriented languages</u> such as J
 <br>
 
 ### Null
-A null or None type represents the absence of a value. This differs from, say 0, in that 0 is present value. 
+A null or None type represents the absence of a value. This differs from, say 0, in that 0 is present value.  
 
 <br>
 
