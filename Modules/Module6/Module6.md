@@ -82,26 +82,35 @@ myObject = ExperimentData(**experimentJson)
 
 What does JSON Stand for?
 
- - Answer:
+ - Answer: JSON stands for JavaScript Object Notation.
 
 Why are JSON formats important?
 
- - Answer:
+ - Answer: JSON is useful to share information/data. Some examples are videos, songs, and more. JSON helps store information and data.
 
 Create an example of a JSON object with at least 4 values. It may represent anything but it must be original.
 
- - Answer:
+ - Answer: 
+# Family
+def__init__(self, son: str, father: str, mother: str, brother: str):
+
+self.son = son
+self.father = father
+self.mother = mother
+self.brother = brother
+
+Big brother: (14 years old, Marcos Perez)
 
 What is the difference between serialization and deserialization?
 
- - Answer:
+ - Answer: Serialization is to convert an object into a string that is representing an object, while deserialization is the inverse operation.
 
 Research data persistance. What did you find?
 
- - Answer: 
+ - Answer: According to datastax.com, data persistence is the continuance of an effect after the cause of its effect has been removed. There are different data stores such as pure in-memory (no persistence, like Scalaris or memcached), in-memory with periodic snapshots (like Reddis or Oracle Coherence), disk-based with update-in-place writes (like MongoDB or MySQL ISAM), and commitlog-based (like OLTP databases, Oracle, SQL Server).
 
 Type down any class notes below this sentence:
-
+JSON is useful to share information/data. Some examples are videos, songs, and more. JSON helps store information and data.
 
 
 Lackluster responses may result in point deductions.
