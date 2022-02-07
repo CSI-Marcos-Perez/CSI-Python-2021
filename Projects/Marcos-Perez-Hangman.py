@@ -54,7 +54,7 @@ def play(word):
     if guessed:
         print("I'll get you next time Perry the Platypus!!!")
     else:
-        print("Haha. YOU LOSE 🤣!!! The word was" + word + "You're really BAD. Play again, I dare you 🥱!")
+        print("Haha. YOU LOSE 🤣!!! The word was " + word + ". You're really BAD. Play again 🥱!")
 
 def display_hangman(tries):
     stages = [ """
@@ -125,7 +125,7 @@ def display_hangman(tries):
 def main():
     word = get_word(word_list)
     play(word)
-    while input("You still haven't won? Going again? (Y/N)").upper() == "Y":
+    while input("If you lost, congrats you hanged a person. If you won then ignore this. Going again? (Y/N)").upper() == "Y":
         word = get_word(word_list)
         play(word)
 
